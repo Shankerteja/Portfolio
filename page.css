@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.banner-container {
+    background-color: #001b2e;
+
+}
+
+.page-logo {
+    height: 20px;
+}
+
+.typewrite {
+
+    text-align: center;
+    color: #b3cde4;
+
+}
+
+.typewrite {
+    color: #b3cde4;
+    text-decoration: none;
+}
+
+.animate-charcter {
+    text-transform: uppercase;
+    background-image: linear-gradient(-225deg,
+            #231557 0%,
+            #44107a 29%,
+            #ff1361 67%,
+            #fff800 100%);
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 3s linear infinite;
+    display: inline-block;
+    font-size: 50px;
+}
+
+@keyframes textclip {
+    to {
+        background-position: 300% center;
+    }
+}
+
+.xx {
+    font-weight: bold;
+}
+
+.homee {
+    font-size: 17px;
+}
+
+.arrow {
+    color: orange;
+}
+
+.fback {
+    background-color: white;
+
+    border-radius: 40px;
+    width: 70px;
+    margin-left: 16px;
+    margin-top: 16px;
+    padding-left: 16px;
+    padding-right: 22px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+
+
+}
+
+.follow-heading {
+    color: white;
+}
+
+.icon {
+    color: #050A30;
+    font-size: 35px;
+    padding-right: 22px;
+}
+
+
+
+
+
+
+.marginn {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.follow-container {
+    background-color: #001b2e;
+
+
+}
+
+.footer-ph {
+    color: #BED754;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer-name {
+    color: #BED754;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer-para {
+    color: #B6BBC4;
+}
+
+.cc {
+    background-color: #eef3f9;
+}
+
+.myimage-footer {
+    height: 100px;
+    border-radius: 100px;
+    width: 100px;
+}
+
+.project-card {
+    background-color: white;
+    padding: 8px;
+    border-radius: 10px;
+
+
+}
+
+.arrow {
+    font-size: 16px;
+}
+
+.project-container {
+
+    background-image: linear-gradient(to right, #b3cde4, #1d3f58);
+}
+
+.project-heading {
+    color: #eef3f9;
+    font-weight: bold;
+}
+
+.nav-color {
+    color: black !important;
+    font-weight: 650;
+}
+
+.heading {
+    color: #eef3f9;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.name {
+    color: #b3cde4;
+}
+
+.myimage {
+    width: 70%;
+    border-radius: 100px;
+}
+
+.myimage2 {
+    width: 100%;
+    text-align: center;
+}
+
+.skills-container {
+
+    background-color: #b3cde4;
+}
+
+.aboutme-card {
+    background-color: #b3cde4;
+    border-radius: 10px;
+}
+
+.skill-heading {
+    font-size: 16px;
+
+}
+
+.my-testimonials {
+    background-color: #092635;
+}
+
+.testimonial-card {
+    background-color: #9EC8B9;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #594d6d;
+}
+
+.testimonial-para {
+    color: #ffffff;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.test-head {
+    color: white;
+}
+
+.testimonial-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.project1-heading {
+    font-size: 16px;
+    padding-top: 7px;
+}
+
+.skill-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.aboutme-description {
+    color: #001b2e;
+}
+
+.aboutme-heading {
+    color: black;
+}
+
+.skill-image {
+    width: 60%;
+}
+
+.skills-name {
+    color: white;
+    font-weight: bold;
+
+}
+
+.work {
+    color: #86b9b0;
+    font-size: 22px;
+}
+
+.about-me {
+    background-image: linear-gradient(to left, #b3cde4, #1d3f58);
+
+}
